@@ -1,5 +1,5 @@
 server:
- port: 8085
+ port: 9999
 spring:
  datasource:
    url: jdbc:mysql://localhost:3306/candidat_servicer?serverTimezone=Africa/Douala&zeroDateTimeBehavior=convertToNull&createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
